@@ -1,4 +1,4 @@
-# Deloitte-Australia-Job-Simulation
+# Deloitte-Australia-Data-Analytics-Job-Simulation
 
 I completed Deloitte Australia's Data Analytics. 
 
